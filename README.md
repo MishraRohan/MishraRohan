@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MishraRohan
 - 👀 I’m interested in learning and explore many fields.
-- 🌱 I’m currently learning lot of things in parallel like blender ae cybersec c project euler
+- 🌱 I’m currently learning lot of things in parallel like C++ R Javascript NODE-JS 
 - 💞️ I’m looking to collaborate on these platforms or any thing else as well as i am exploring different softwares and fields
 - 📫 How to reach me mail me on f20211394@pilani.bits-pilani.ac.in
 
